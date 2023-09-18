@@ -33,4 +33,26 @@ p {
     body {
         background-size: contain;
     }
+
+    h1 {
+    font-style: oblique;
+    color: brown;
+    font-size: 3rem;
+    text-align: center;
+    margin: 1rem 0;
+    }
+
+    h2 {
+    color: brown;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem 0;
+    }
+
+    p {
+    color: brown;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem 0;
+    }
 }
