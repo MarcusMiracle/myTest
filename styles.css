@@ -32,6 +32,8 @@ p {
 @media (max-width: 500px) {
     body {
         background-size: contain;
+        background-image: none;
+        background-color: mediumspringgreen;
     }
 
     h1 {
